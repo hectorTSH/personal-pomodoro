@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Still",
+      "hasCanvas": false,
+      "bodyTextLen": 347,
+      "bodyTextHash": "3fab1d2c10d023c49fc8b3b2a4c703ced86a85e0c48cc1a448de07cbbefc95e9",
+      "bodyTextPrefix": "INTERVAL TIMER Still Space start·R reset·N skip 25:00 READY Read",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Still",
+      "hasCanvas": false,
+      "bodyTextLen": 340,
+      "bodyTextHash": "9c83c95ee827cb9e7198ff6ad2cc1b28d4f2b35f0b469b50107de0532b8d62a3",
+      "bodyTextPrefix": "INTERVAL TIMER Still Space start·R reset 25:00 READY Ready. Focu",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
